@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         TierMaker Dark mode
+// @namespace    https://github.com/YSSF8/TierMaker-Dark-Mode/
 // @version      1.0
 // @description  Set TierMaker theme to dark.
 // @author       YSSF
