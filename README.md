@@ -1,4 +1,4 @@
-# TierMaker-Dark-Mode
+# TierMaker Dark Mode
 
 ## How to install it:
 
