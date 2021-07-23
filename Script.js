@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TierMaker Dark mode
 // @namespace    https://github.com/YSSF8/TierMaker-Dark-Mode/
-// @version      1.0
+// @version      1.1
 // @description  Set TierMaker theme to dark.
 // @author       YSSF
 // @match        https://tiermaker.com/*
@@ -29,6 +29,22 @@
         }
         .emoji-count {
             color: #000 !important;
+        }
+        .ui-menu-item-wrapper {
+            background: #1e1e1e !important;
+        }
+        .ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front {
+            background: #1e1e1e;
+        }
+        .label-holder {
+            outline: none;
+            color: #000 !important;
+        }
+        #nav #create, .button-link {
+            background: #6b96f3 !important;
+        }
+        a, #footer a {
+            color: #6b96f3;
         }
         ::-webkit-scrollbar {
             width: 12px;
